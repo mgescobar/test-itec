@@ -29,5 +29,5 @@ yarn dev
 yarn build
 
 # Opcional: Caso queira iniciar a produção
-yarn star
+yarn start
 ```
