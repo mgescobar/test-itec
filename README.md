@@ -1,5 +1,6 @@
-# 🚀 Test ITEC
-
+# 🚀 Teste técnico iTec - GitFav
+Uma pagina web feita para buscar, visualizar e favoritar repositórios públicos do GitHub.
+<br>
 ![Next.js](https://img.shields.io/badge/Next.js-15.2.4-000000?logo=next.js)
 
 ## 📝 Pré-requisitos
