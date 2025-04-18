@@ -41,6 +41,12 @@ const Header = () => {
                 Favoritos
               </Link>
             )}
+            <Link
+              href="/about-me"
+              className="text-gray-500 hover:text-blue-600 transition-colors duration-200"
+            >
+              Sobre Mim
+            </Link>
           </div>
 
           <div>
