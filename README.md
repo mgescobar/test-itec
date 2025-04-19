@@ -31,3 +31,10 @@ yarn build
 # Opcional: Caso queira iniciar a produção
 yarn start
 ```
+
+## 🔑 Senha para login
+
+```bash
+  Login: itec-furg
+  Senha: 123
+```
